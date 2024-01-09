@@ -142,3 +142,8 @@ Lines of code align,
 Syntax flows with perfection,
 Creation in bytes.
 -Zyxzo
+
+Bytes silenty hum,
+Algorithms weave the code,
+Logic blooms in loops.
+-Adam
