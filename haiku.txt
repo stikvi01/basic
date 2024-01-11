@@ -159,6 +159,11 @@ Algorithms weave the code,
 Logic blooms in loops.
 -Adam
 
+This is a haiku.
+Doing the bare minimum,
+Next line is m name.
+-Lasse
+
 Haikus are easy.
 But sometimes they don't make sense.
 Refrigerator.
