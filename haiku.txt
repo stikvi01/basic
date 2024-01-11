@@ -18,6 +18,11 @@ Coding is the reason why.
 But im having fun.
 - Ottar
 
+Silent code cascades,
+Logic weaving endless dreams,
+In bytes, worlds are made.
+- Taran
+
 Dont wanna do this
 Programming is hard for me
 I will do my best.
@@ -32,6 +37,7 @@ This is difficult,
 my head is spinning alot,
 will I ever succeed?
 - Thomas KN
+
 
 I code, therefor i am
 I dont haiku, therefore i am not
@@ -152,3 +158,34 @@ Haikus are easy.
 Sometimes they don't make sense.
 Refrigerator.
 -Fredrik
+
+Books whisper knowledge,
+Classroom echoes with learning,
+Growth blooms in each mind.
+- Lene Sofie K
+
+This is a haiku.
+Doing the bare minimum,
+Next line is m name.
+-Lasse
+
+Haikus are easy.
+But sometimes they don't make sense.
+Refrigerator.
+- Maiken
+
+My pc is dead,
+I need to find my charger,
+oops! I forgot it at school.
+-André
+
+Lines entangled, lost,
+Silent errors mock my code,
+Debugging shadows.
+- Even
+
+I stille skogens ro,
+vinden hvisker visdom frem,
+livets danser går.
+-Gerd Marie
+
