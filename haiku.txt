@@ -1,8 +1,3 @@
-I stille skogens ro,
-vinden hvisker visdom frem,
-livets danser går.
--Gerd Marie
-
 Your program brok,
 as cold and frail as winter
 your bad code is.
@@ -173,4 +168,15 @@ My pc is dead,
 I need to find my charger,
 oops! I forgot it at school.
 -André
+
+Lines entangled, lost,
+Silent errors mock my code,
+Debugging shadows.
+- Even
+
+I stille skogens ro,
+vinden hvisker visdom frem,
+livets danser går.
+-Gerd Marie
+
 
